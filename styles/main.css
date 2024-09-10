@@ -1,0 +1,148 @@
+:root {
+  --black-color: black;
+  --gray-color: gray;
+  --lightgray-color: lightgray;
+  --white-color: white;
+  --highlight-color: #fed269;
+  --green-color: rgb(0, 90, 91);
+  --blue-color: #62a5d8;
+  --title-size: 2.2rem;
+  --subtitle-size: 1.5rem;
+  --large-size: 1.2rem;
+  --middle-size: 1rem;
+  --small-size: 0.75rem;
+}
+
+/* Clear css default styling */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: DFkai-sb, sans-serif;
+  letter-spacing: 1.5px;
+}
+
+/* Global style */
+h1 {
+  font-size: var(--title-size);
+  font-weight: 500;
+  color: var(--white-color);
+}
+
+h2 {
+  font-size: var(--middle-size);
+}
+
+h3 {
+  font-size: var(--subtitle-size);
+  padding: 1rem 0;
+}
+
+h4 {
+  font-size: var(--large-size);
+}
+
+h5 {
+  font-size: var(--middle-size);
+  padding: 0.5rem 0;
+}
+
+p {
+  font-size: var(--middle-size);
+}
+
+ul,
+li {
+  list-style: none;
+  list-style-type: none;
+  line-height: 1.8rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 0.8rem;
+}
+
+i {
+  padding-right: 0.5rem;
+}
+
+figcaption {
+  font-size: var(--small-size);
+  font-weight: 200;
+}
+
+/* Special p style setting */
+::selection {
+  color: var(--white-color);
+  background-color: var(--highlight-color);
+}
+
+.keyword {
+  text-decoration: solid underline var(--highlight-color) 2px;
+}
+
+.point {
+  background-color: var(--highlight-color);
+}
+
+/* header */
+header {
+  .top {
+    background-image: url("../images/background.jpg");
+    background-size: auto;
+    background-position: bottom;
+    padding: 2rem 2rem 1rem 2rem;
+
+    p {
+      font-weight: 200;
+      color: var(--white-color);
+      text-shadow: var(--black-color) 0 0 10px;
+    }
+  }
+
+  nav.nav {
+    background-color: var(--black-color);
+
+    a.nav-link {
+      color: var(--white-color);
+    }
+
+    a.active {
+      color: var(--highlight-color);
+    }
+
+    a.nav-link:hover {
+      color: var(--highlight-color);
+      transition: all 0.5s ease;
+    }
+  }
+}
+
+/* main */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  section {
+    padding: 1rem 2rem;
+  }
+
+  .left {
+    flex: 1;
+    min-width: 230px;
+  }
+  .right {
+    flex: 3 1 500px;
+  }
+}
+
+/* screen */
+@media only screen and (max-width: 500px) {
+  header nav li {
+    max-width: 42px;
+  }
+}
