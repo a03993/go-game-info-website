@@ -79,7 +79,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 ## Acknowledgements
 
 - Pexels for providing free stock photos.
-
 - React for building the user interface.
 
 ## Contact
@@ -87,5 +86,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 For any questions or inquiries, feel free to reach out:
 
 - GitHub: a03993
-
 - Email: a03993a@gmail.com
