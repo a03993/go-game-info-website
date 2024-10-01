@@ -1,7 +1,5 @@
 # Go Game Information Website
 
-[![Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square&logo=github)](https://github.com/a03993/udemy-project1-go-game-website/tree/main)
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -44,22 +42,3 @@ open index.html
 ```
 
 Alternatively, you can open it with any web browser by navigating to the file location.
-
-## Contributing
-
-Contributions are welcome! Feel free to fork the repository and create a pull request with your changes.
-
-1. Fork the repository.
-2. Create a new branch:
-```bash
-git checkout -b feature/your_feature
-```
-3. Commit your changes:
-```bash
-git commit -am 'Add some feature'
-```
-4. Push to the branch:
-```bash
-git push origin feature/your_feature
-```
-Create a Pull Request.
