@@ -12,7 +12,7 @@
 
 To view the deployed version of the website, visit the following link:
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://go-game.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/76ac300f-74cd-47ec-a33b-846ecab363f0/deploy-status)](https://go-game.netlify.app)
 
 ## Introduction
 
