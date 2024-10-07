@@ -2,11 +2,17 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
+1. [Demo](#demo)
+3. [Introduction](#introduction)
+4. [Features](#features)
+5. [Installation](#installation)
+6. [Usage](#usage)
+
+## Demo
+
+To view the deployed version of the website, visit the following link:
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://go-game.netlify.app)
 
 ## Introduction
 
