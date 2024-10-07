@@ -1,18 +1,16 @@
 # Go Game Information Website
 
+View the deployed version of the website here!
+
+**Demo Link：**[![Netlify Status](https://api.netlify.com/api/v1/badges/76ac300f-74cd-47ec-a33b-846ecab363f0/deploy-status)](https://go-game.netlify.app)
+
 ## Table of Contents
 
-1. [Demo](#demo)
-3. [Introduction](#introduction)
-4. [Features](#features)
-5. [Installation](#installation)
-6. [Usage](#usage)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
 
-## Demo
-
-To view the deployed version of the website, visit the following link:
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/76ac300f-74cd-47ec-a33b-846ecab363f0/deploy-status)](https://go-game.netlify.app)
 
 ## Introduction
 
